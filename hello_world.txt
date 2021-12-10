@@ -1,1 +1,2 @@
 Hello everyone
+Let's start so today we will be learning about git 
